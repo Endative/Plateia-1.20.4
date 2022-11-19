@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Plateia",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Adds new building blocks for Minecraft city architects!",
   "authors": [
     "endative"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Endative/Plateia-1.19.2"
   },
 
   "license": "MIT License",

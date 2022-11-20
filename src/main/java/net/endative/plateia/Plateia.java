@@ -1,5 +1,6 @@
 package net.endative.plateia;
 
+import net.endative.plateia.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -10,5 +11,8 @@ public class Plateia implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItems.registerModItems();
+
 	}
 }

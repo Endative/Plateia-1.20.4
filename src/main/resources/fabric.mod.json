@@ -6,15 +6,16 @@
   "name": "Plateia",
   "description": "Adds new building blocks for Minecraft city architects!",
   "authors": [
-    "endative"
+    "endative",
+    "VakyPanda"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/Endative/Plateia-1.19.2"
   },
 
-  "license": "MIT License",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/plateia_icon.png",
 
   "environment": "*",
   "entrypoints": {

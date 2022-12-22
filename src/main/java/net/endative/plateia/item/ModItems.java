@@ -7,7 +7,7 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
-    //Add items here -
+    //Add items here
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(Plateia.MOD_ID, name), item);

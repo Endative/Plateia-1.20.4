@@ -1,5 +1,9 @@
 {
   "block.minecraft.dark_prismarine": "Dark Prismarine Bricks",
   "block.minecraft.dark_prismarine_slab": "Dark Prismarine Brick Slab",
-  "block.minecraft.dark_prismarine_stairs": "Dark Prismarine Brick Stairs"
+  "block.minecraft.dark_prismarine_stairs": "Dark Prismarine Brick Stairs",
+
+  "block.plateia.searstone": "Searstone",
+  "block.plateia.raw_searstone": "Raw Searstone",
+  "block.plateia.stone_tiles": "Stone Tiles"
 }

@@ -14,6 +14,10 @@ import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
 
+    //Dark Prismarine
+    public static final Block DARK_PRISMARINE = registerBlock("dark_prismarine",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(2.5f).requiresTool().sounds(BlockSoundGroup.STONE)), ItemGroup.BUILDING_BLOCKS);
+
     //Searstone
     public static final Block SEARSTONE = registerBlock("searstone",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2.5f).requiresTool().sounds(BlockSoundGroup.STONE)), ItemGroup.BUILDING_BLOCKS);
@@ -24,6 +28,10 @@ public class ModBlocks {
 
     //Stone Tiles
     public static final Block STONE_TILES = registerBlock("stone_tiles",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.5f).requiresTool().sounds(BlockSoundGroup.STONE)), ItemGroup.BUILDING_BLOCKS);
+
+    //Smooth Stone Tiles
+    public static final Block SMOOTH_STONE_TILES = registerBlock("smooth_stone_tiles",
             new Block(FabricBlockSettings.of(Material.STONE).strength(1.5f).requiresTool().sounds(BlockSoundGroup.STONE)), ItemGroup.BUILDING_BLOCKS);
 
 

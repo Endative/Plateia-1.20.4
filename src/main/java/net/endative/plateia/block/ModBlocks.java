@@ -40,7 +40,7 @@ public class ModBlocks {
 
     //Calcite Dust
     public static final Block CALCITE_WIRE = register("calcite_wire",
-            new RedstoneWireBlock(FabricBlockSettings.copy(Blocks.REDSTONE_WIRE)));
+            new RedstoneWireBlock(FabricBlockSettings.of(Material.STONE).strength(0f).sounds(BlockSoundGroup.STONE)));
 
     //Warped Wart Carpet
     public static final Block WARPED_WART_CARPET = registerBlock("warped_wart_carpet",
@@ -59,6 +59,7 @@ public class ModBlocks {
         registerBlockItem(name, block, tab);
         return Registry.register(Registry.BLOCK, new Identifier(Plateia.MOD_ID, name), block);
     }
+
     private static Item registerBlockItem(String name, Block block, ItemGroup tab) {
         return Registry.register(Registry.ITEM, new Identifier(Plateia.MOD_ID, name),
                 new BlockItem(block, new FabricItemSettings().group(tab)));

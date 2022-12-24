@@ -3,7 +3,17 @@
   "block.minecraft.dark_prismarine_slab": "Dark Prismarine Brick Slab",
   "block.minecraft.dark_prismarine_stairs": "Dark Prismarine Brick Stairs",
 
+  "block.plateia.dark_prismarine": "Dark Prismarine",
   "block.plateia.searstone": "Searstone",
   "block.plateia.raw_searstone": "Raw Searstone",
   "block.plateia.stone_tiles": "Stone Tiles",
+  "block.plateia.smooth_stone_tiles": "Smooth Stone Tiles",
+  "block.plateia.granite_tiles": "Granite Tiles",
+
+  "item.plateia.calcite_dust": "Calcite Dust",
+
+  "block.plateia.warped_wart_carpet": "Warped Wart Carpet",
+  "block.plateia.nether_wart_carpet": "Nether Wart Carpet",
+
+  "itemGroup.plateia.plateia": "Plateia"
 }

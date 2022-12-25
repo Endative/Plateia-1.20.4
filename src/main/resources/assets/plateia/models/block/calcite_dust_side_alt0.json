@@ -1,6 +1,6 @@
 {
     "parent": "plateia:block/calcite_dust_side_alt",
     "textures": {
-        "line": "block/redstone_dust_line0"
+        "line": "block/calcite_dust_line0"
     }
 }

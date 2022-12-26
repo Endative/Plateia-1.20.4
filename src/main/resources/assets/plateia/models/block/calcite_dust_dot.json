@@ -1,8 +1,9 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "block/calcite_dust_dot",
-        "line": "block/calcite_dust_dot"
+        "particle": "plateia:block/calcite_dust_dot",
+        "line": "plateia:block/calcite_dust_dot",
+        "overlay": "plateia:block/calcite_dust_overlay"
     },
     "elements": [
         {   "from": [ 0, 0.25, 0 ],

@@ -49,11 +49,11 @@ public class ModBlocks {
 
     //Warped Wart Carpet
     public static final Block WARPED_WART_CARPET = registerBlock("warped_wart_carpet",
-            new CarpetBlock(FabricBlockSettings.of(Material.MOSS_BLOCK).strength(0.1f).sounds(BlockSoundGroup.WART_BLOCK)), ModItemGroup.PLATEIA);
+            new CarpetBlock(FabricBlockSettings.of(Material.MOSS_BLOCK).strength(0.1f).sounds(BlockSoundGroup.MOSS_CARPET)), ModItemGroup.PLATEIA);
 
     //Nether Wart Carpet
     public static final Block NETHER_WART_CARPET = registerBlock("nether_wart_carpet",
-            new CarpetBlock(FabricBlockSettings.of(Material.MOSS_BLOCK).strength(0.1f).sounds(BlockSoundGroup.WART_BLOCK)), ModItemGroup.PLATEIA);
+            new CarpetBlock(FabricBlockSettings.of(Material.MOSS_BLOCK).strength(0.1f).sounds(BlockSoundGroup.MOSS_CARPET)), ModItemGroup.PLATEIA);
 
 
 

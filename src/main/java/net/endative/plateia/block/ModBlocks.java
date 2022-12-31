@@ -1,6 +1,7 @@
 package net.endative.plateia.block;
 
 import net.endative.plateia.Plateia;
+import net.endative.plateia.block.custom.CustomWireBlock;
 import net.endative.plateia.item.ModItemGroup;
 import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
@@ -42,10 +43,11 @@ public class ModBlocks {
 
     //Calcite Dust
     public static final Block CALCITE_WIRE = register("calcite_wire",
-            new RedstoneWireBlock(FabricBlockSettings.of(Material.STONE).strength(0f).sounds(BlockSoundGroup.STONE).nonOpaque()));
+            new CustomWireBlock(FabricBlockSettings.of(Material.STONE).strength(0f).sounds(BlockSoundGroup.CALCITE).nonOpaque()));
+    public static final Block DOUBLE_CALCITE_WIRE = register("double_calcite_wire",
+            new CustomWireBlock(FabricBlockSettings.of(Material.STONE).strength(0f).sounds(BlockSoundGroup.CALCITE).nonOpaque()));
 
     //Glowstone Dust
-
 
     //Warped Wart Carpet
     public static final Block WARPED_WART_CARPET = registerBlock("warped_wart_carpet",
@@ -76,5 +78,6 @@ public class ModBlocks {
     public static void registerModBlocks() {
         Plateia.LOGGER.debug("Registering ModBlocks for " + Plateia.MOD_ID);
         BlockRenderLayerMap.INSTANCE.putBlock(CALCITE_WIRE, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(DOUBLE_CALCITE_WIRE, RenderLayer.getCutout());
     }
 }

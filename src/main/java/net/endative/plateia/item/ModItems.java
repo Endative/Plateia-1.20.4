@@ -13,7 +13,10 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
+    //Calcite Dust
     public static final Item CALCITE_DUST = register("calcite_dust", new AliasedBlockItem(ModBlocks.CALCITE_WIRE,
+            new FabricItemSettings().group(ModItemGroup.PLATEIA)));
+    public static final Item DOUBLE_CALCITE_DUST = register("double_calcite_dust", new AliasedBlockItem(ModBlocks.DOUBLE_CALCITE_WIRE,
             new FabricItemSettings().group(ModItemGroup.PLATEIA)));
 
     private static Item register(String id, Block block, ItemGroup group) {

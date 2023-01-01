@@ -9,6 +9,9 @@
   "block.plateia.stone_tiles": "Stone Tiles",
   "block.plateia.smooth_stone_tiles": "Smooth Stone Tiles",
   "block.plateia.granite_tiles": "Granite Tiles",
+  "block.plateia.diorite_tiles": "Diorite Tiles",
+  "block.plateia.andesite_tiles": "Andesite Tiles",
+  "block.plateia.dark_prismarine_tiles": "Dark Prismarine Tiles",
 
   "item.plateia.calcite_dust": "Calcite Dust",
   "item.plateia.double_calcite_dust": "Double Calcite Dust",

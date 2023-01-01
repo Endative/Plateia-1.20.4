@@ -41,13 +41,23 @@ public class ModBlocks {
     public static final Block GRANITE_TILES = registerBlock("granite_tiles",
             new Block(FabricBlockSettings.of(Material.STONE).strength(1.5f).requiresTool().sounds(BlockSoundGroup.STONE)), ModItemGroup.PLATEIA);
 
+    //Andesite Tiles
+    public static final Block ANDESITE_TILES = registerBlock("andesite_tiles",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.5f).requiresTool().sounds(BlockSoundGroup.STONE)), ModItemGroup.PLATEIA);
+
+    //Polished Diorite Tiles
+    public static final Block DIORITE_TILES = registerBlock("diorite_tiles",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.5f).requiresTool().sounds(BlockSoundGroup.STONE)), ModItemGroup.PLATEIA);
+
+
+
+    //Glowstone Dust
+
     //Calcite Dust
     public static final Block CALCITE_WIRE = register("calcite_wire",
             new CustomWireBlock(FabricBlockSettings.of(Material.STONE).strength(0f).sounds(BlockSoundGroup.CALCITE).nonOpaque()));
     public static final Block DOUBLE_CALCITE_WIRE = register("double_calcite_wire",
             new CustomWireBlock(FabricBlockSettings.of(Material.STONE).strength(0f).sounds(BlockSoundGroup.CALCITE).nonOpaque()));
-
-    //Glowstone Dust
 
     //Warped Wart Carpet
     public static final Block WARPED_WART_CARPET = registerBlock("warped_wart_carpet",

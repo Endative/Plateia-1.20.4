@@ -11,22 +11,6 @@
             "north": "none",
             "south": "none",
             "west": "none"
-          },
-          {
-            "east": "side|up",
-            "north": "side|up"
-          },
-          {
-            "east": "side|up",
-            "south": "side|up"
-          },
-          {
-            "south": "side|up",
-            "west": "side|up"
-          },
-          {
-            "north": "side|up",
-            "west": "side|up"
           }
         ]
       }
@@ -67,7 +51,7 @@
     },
     {
       "apply": {
-        "model": "plateia:block/double_double_calcite_dust_corner0"
+        "model": "plateia:block/double_calcite_dust_corner0"
       },
       "when": {
         "north": "side|up",

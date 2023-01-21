@@ -1,0 +1,7 @@
+{
+  "parent": "plateia:block/ctm",
+  "textures": {
+    "all": "plateia:block/polished_searstone",
+    "base": "plateia:block/borderless_polished_searstone"
+  }
+}

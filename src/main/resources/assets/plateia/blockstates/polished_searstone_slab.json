@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "plateia:block/polished_searstone_slab"
+    },
+    "type=double": {
+      "model": "plateia:block/polished_searstone"
+    },
+    "type=top": {
+      "model": "plateia:block/polished_searstone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "plateia:block/polished_searstone",
+    "top": "plateia:block/borderless_polished_searstone",
+    "side": "plateia:block/polished_searstone"
+  }
+}

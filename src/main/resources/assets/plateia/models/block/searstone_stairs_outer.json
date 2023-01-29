@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "plateia:block/searstone",
+    "top": "plateia:block/searstone",
+    "side": "plateia:block/searstone"
+  }
+}

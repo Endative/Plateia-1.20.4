@@ -1,23 +1,20 @@
 {
-  "block.minecraft.dark_prismarine": "Dark Prismarine Bricks",
-  "block.minecraft.dark_prismarine_slab": "Dark Prismarine Brick Slab",
-  "block.minecraft.dark_prismarine_stairs": "Dark Prismarine Brick Stairs",
+  "block.plateia.smooth_dark_prismarine": "Smooth Dark Prismarine",
 
-  "block.plateia.dark_prismarine": "Dark Prismarine",
+  "block.plateia.smooth_dark_prismarine_stairs": "Smooth Dark Prismarine Stairs",
+  "block.plateia.smooth_dark_prismarine_slab": "Smooth Dark Prismarine Slab",
+
   "block.plateia.searstone": "Searstone",
-  "block.plateia.raw_searstone": "Raw Searstone",
-  "block.plateia.stone_tiles": "Stone Tiles",
-  "block.plateia.smooth_stone_tiles": "Smooth Stone Tiles",
-  "block.plateia.granite_tiles": "Granite Tiles",
-  "block.plateia.diorite_tiles": "Diorite Tiles",
-  "block.plateia.andesite_tiles": "Andesite Tiles",
-  "block.plateia.dark_prismarine_tiles": "Dark Prismarine Tiles",
+  "block.plateia.polished_searstone": "Polished Searstone",
 
-  "item.plateia.calcite_dust": "Calcite Dust",
-  "item.plateia.double_calcite_dust": "Double Calcite Dust",
+  "block.plateia.searstone_wall": "Searstone Wall",
+  "block.plateia.polished_searstone_wall": "Polished Searstone Wall",
+  "block.plateia.searstone_stairs": "Searstone Stairs",
+  "block.plateia.polished_searstone_stairs": "Polished Searstone Stairs",
+  "block.plateia.searstone_slab": "Searstone Slab",
+  "block.plateia.polished_searstone_slab": "Polished Searstone Slab",
 
-  "block.plateia.warped_wart_carpet": "Warped Wart Carpet",
-  "block.plateia.nether_wart_carpet": "Nether Wart Carpet",
+  "item.plateia.line": "Line",
 
   "itemGroup.plateia.plateia": "Plateia"
 }

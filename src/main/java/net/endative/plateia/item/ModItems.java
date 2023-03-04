@@ -2,6 +2,7 @@ package net.endative.plateia.item;
 
 import net.endative.plateia.Plateia;
 import net.endative.plateia.block.ModBlocks;
+import net.endative.plateia.item.custom.AliasedLineBlockItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.block.Block;
 import net.minecraft.item.*;
@@ -10,7 +11,7 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
-    public static final Item LINE = register("line", new AliasedBlockItem(ModBlocks.LINE,
+    public static final Item LINE = register("line", new AliasedLineBlockItem(ModBlocks.LINE,
             new FabricItemSettings().group(ModItemGroup.PLATEIA)));
 
 

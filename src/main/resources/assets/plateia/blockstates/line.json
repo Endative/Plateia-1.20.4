@@ -1,63 +1,124 @@
 {
   "variants": {
-    "facing=north,double=false,corner=false": {
-      "model": "plateia:block/line"
+    "facing=north,double=false,corner=false,white=true": {
+      "model": "plateia:block/line_white"
     },
-    "facing=north,double=false,corner=true": {
-      "model": "plateia:block/line_corner"
+    "facing=north,double=false,corner=true,white=true": {
+      "model": "plateia:block/line_corner_white"
     },
-    "facing=north,double=true,corner=false": {
-      "model": "plateia:block/double_line"
+    "facing=north,double=true,corner=false,white=true": {
+      "model": "plateia:block/double_line_white"
     },
-    "facing=north,double=true,corner=true": {
-      "model": "plateia:block/double_line_corner"
+    "facing=north,double=true,corner=true,white=true": {
+      "model": "plateia:block/double_line_corner_white"
     },
-    "facing=south,double=false,corner=false": {
-      "model": "plateia:block/line",
+    "facing=south,double=false,corner=false,white=true": {
+      "model": "plateia:block/line_white",
       "y": 180
     },
-    "facing=south,double=false,corner=true": {
-      "model": "plateia:block/line_corner",
+    "facing=south,double=false,corner=true,white=true": {
+      "model": "plateia:block/line_corner_white",
       "y": 180
     },
-    "facing=south,double=true,corner=false": {
-      "model": "plateia:block/double_line",
+    "facing=south,double=true,corner=false,white=true": {
+      "model": "plateia:block/double_line_white",
       "y": 180
     },
-    "facing=south,double=true,corner=true": {
-      "model": "plateia:block/double_line_corner",
+    "facing=south,double=true,corner=true,white=true": {
+      "model": "plateia:block/double_line_corner_white",
       "y": 180
     },
-    "facing=west,double=false,corner=false": {
-      "model": "plateia:block/line",
+    "facing=west,double=false,corner=false,white=true": {
+      "model": "plateia:block/line_white",
       "y": 270
     },
-    "facing=west,double=false,corner=true": {
-      "model": "plateia:block/line_corner",
+    "facing=west,double=false,corner=true,white=true": {
+      "model": "plateia:block/line_corner_white",
       "y": 270
     },
-    "facing=west,double=true,corner=false": {
-      "model": "plateia:block/double_line",
+    "facing=west,double=true,corner=false,white=true": {
+      "model": "plateia:block/double_line_white",
       "y": 270
     },
-    "facing=west,double=true,corner=true": {
-      "model": "plateia:block/double_line_corner",
+    "facing=west,double=true,corner=true,white=true": {
+      "model": "plateia:block/double_line_corner_white",
       "y": 270
     },
-    "facing=east,double=false,corner=false": {
-      "model": "plateia:block/line",
+    "facing=east,double=false,corner=false,white=true": {
+      "model": "plateia:block/line_white",
       "y": 90
     },
-    "facing=east,double=false,corner=true": {
-      "model": "plateia:block/line_corner",
+    "facing=east,double=false,corner=true,white=true": {
+      "model": "plateia:block/line_corner_white",
       "y": 90
     },
-    "facing=east,double=true,corner=false": {
-      "model": "plateia:block/double_line",
+    "facing=east,double=true,corner=false,white=true": {
+      "model": "plateia:block/double_line_white",
       "y": 90
     },
-    "facing=east,double=true,corner=true": {
-      "model": "plateia:block/double_line_corner",
+    "facing=east,double=true,corner=true,white=true": {
+      "model": "plateia:block/double_line_corner_white",
+      "y": 90
+    },
+
+    "facing=north,double=false,corner=false,orange=true": {
+      "model": "plateia:block/line_orange"
+    },
+    "facing=north,double=false,corner=true,orange=true": {
+      "model": "plateia:block/line_corner_orange"
+    },
+    "facing=north,double=true,corner=false,orange=true": {
+      "model": "plateia:block/double_line_orange"
+    },
+    "facing=north,double=true,corner=true,orange=true": {
+      "model": "plateia:block/double_line_corner_orange"
+    },
+    "facing=south,double=false,corner=false,orange=true": {
+      "model": "plateia:block/line_orange",
+      "y": 180
+    },
+    "facing=south,double=false,corner=true,orange=true": {
+      "model": "plateia:block/line_corner_orange",
+      "y": 180
+    },
+    "facing=south,double=true,corner=false,orange=true": {
+      "model": "plateia:block/double_line_orange",
+      "y": 180
+    },
+    "facing=south,double=true,corner=true,orange=true": {
+      "model": "plateia:block/double_line_corner_orange",
+      "y": 180
+    },
+    "facing=west,double=false,corner=false,orange=true": {
+      "model": "plateia:block/line_orange",
+      "y": 270
+    },
+    "facing=west,double=false,corner=true,orange=true": {
+      "model": "plateia:block/line_corner_orange",
+      "y": 270
+    },
+    "facing=west,double=true,corner=false,orange=true": {
+      "model": "plateia:block/double_line_orange",
+      "y": 270
+    },
+    "facing=west,double=true,corner=true,orange=true": {
+      "model": "plateia:block/double_line_corner_orange",
+      "y": 270
+    },
+    "facing=east,double=false,corner=false,orange=true": {
+      "model": "plateia:block/line_orange",
+      "y": 90
+    },
+    "facing=east,double=false,corner=true,orange=true": {
+      "model": "plateia:block/line_corner_orange",
+      "y": 90
+    },
+    "facing=east,double=true,corner=false,orange=true": {
+      "model": "plateia:block/double_line_orange",
+      "y": 90
+    },
+    "facing=east,double=true,corner=true,orange=true": {
+      "model": "plateia:block/double_line_corner_orange",
       "y": 90
     }
   }

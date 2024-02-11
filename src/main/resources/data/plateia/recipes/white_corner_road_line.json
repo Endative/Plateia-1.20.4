@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "road",
+  "pattern": [
+    "##",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "plateia:white_corner_road_line",
+    "count": 2
+  }
+}

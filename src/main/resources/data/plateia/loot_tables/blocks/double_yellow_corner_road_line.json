@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "plateia:double_yellow_corner_road_line"
+        }
+      ]
+    }
+  ]
+}

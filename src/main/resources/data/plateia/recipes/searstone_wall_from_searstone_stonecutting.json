@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "searstone",
+  "count": 1,
+  "ingredient": {
+    "item": "plateia:searstone"
+  },
+  "result": "plateia:searstone_wall"
+}

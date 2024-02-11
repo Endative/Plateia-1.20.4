@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "plateia:block/2_way_single_to_double_white_road_line_connection"
+    },
+    "facing=south": {
+      "model": "plateia:block/2_way_single_to_double_white_road_line_connection",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "plateia:block/2_way_single_to_double_white_road_line_connection",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "plateia:block/2_way_single_to_double_white_road_line_connection",
+      "y": 270
+    }
+  }
+}

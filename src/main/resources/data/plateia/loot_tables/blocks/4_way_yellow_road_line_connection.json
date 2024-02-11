@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "plateia:4_way_yellow_road_line_connection"
+        }
+      ]
+    }
+  ]
+}

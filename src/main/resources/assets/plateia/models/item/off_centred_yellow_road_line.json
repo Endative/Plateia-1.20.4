@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "plateia:item/off_centred_yellow_road_line"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "plateia:item/double_white_corner_road_line"
+  }
+}

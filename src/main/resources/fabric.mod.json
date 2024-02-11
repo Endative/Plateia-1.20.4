@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Plateia",
-  "description": "Plateia enhances the urban building experience with city-inspired, vanilla-compliant blocks.",
+  "description": "endative's simple mod for city building blocks",
   "authors": [
     "endative",
     "VakyPanda"
@@ -33,7 +33,7 @@
   "depends": {
     "fabricloader": ">=0.14.9",
     "fabric-api": "*",
-    "minecraft": "~1.19",
+    "minecraft": ">=1.19",
     "java": ">=17"
   },
   "suggests": {

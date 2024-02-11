@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "plateia:item/yellow_rectangle_road_pattern"
+  }
+}

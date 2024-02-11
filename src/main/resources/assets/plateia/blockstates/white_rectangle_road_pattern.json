@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "plateia:block/white_rectangle_road_pattern"
+    },
+    "facing=south": {
+      "model": "plateia:block/white_rectangle_road_pattern",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "plateia:block/white_rectangle_road_pattern",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "plateia:block/white_rectangle_road_pattern",
+      "y": 270
+    }
+  }
+}

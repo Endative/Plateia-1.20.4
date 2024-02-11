@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "road",
+  "pattern": [
+    "###",
+    " ##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "plateia:3_way_single_through_double_white_road_line_connection",
+    "count": 2
+  }
+}

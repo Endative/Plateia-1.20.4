@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "searstone",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "plateia:polished_searstone"
+    }
+  },
+  "result": {
+    "count": 6,
+    "item": "plateia:polished_searstone_wall"
+  }
+}

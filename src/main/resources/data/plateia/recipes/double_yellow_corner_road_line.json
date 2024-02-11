@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "road",
+  "pattern": [
+    "###",
+    "  #",
+    "  #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "plateia:double_yellow_corner_road_line",
+    "count": 3
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "plateia:smooth_dark_prismarine"
+    }
+  },
+  "result": {
+    "count": 6,
+    "item": "plateia:smooth_dark_prismarine_slab"
+  }
+}

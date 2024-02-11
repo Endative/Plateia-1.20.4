@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "searstone",
+  "key": {
+    "#": {
+      "item": "plateia:polished_searstone"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "plateia:polished_searstone_slab"
+  }
+}

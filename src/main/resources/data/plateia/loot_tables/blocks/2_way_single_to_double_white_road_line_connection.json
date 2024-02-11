@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "plateia:2_way_single_to_double_white_road_line_connection"
+        }
+      ]
+    }
+  ]
+}

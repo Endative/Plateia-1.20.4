@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "road",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "plateia:yellow_dot_road_pattern",
+    "count": 1
+  }
+}

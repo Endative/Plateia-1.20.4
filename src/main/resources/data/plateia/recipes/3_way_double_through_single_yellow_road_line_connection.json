@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "road",
+  "pattern": [
+    "###",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "plateia:3_way_double_through_single_yellow_road_line_connection",
+    "count": 2
+  }
+}

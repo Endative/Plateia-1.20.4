@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "plateia:smooth_dark_prismarine",
+    "plateia:smooth_dark_prismarine_stairs",
+    "plateia:smooth_dark_prismarine_slab",
+    "plateia:searstone",
+    "plateia:polished_searstone",
+    "plateia:searstone_wall",
+    "plateia:polished_searstone_wall",
+    "plateia:searstone_stairs",
+    "plateia:polished_searstone_stairs",
+    "plateia:searstone_slab",
+    "plateia:polished_searstone_slab"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "plateia:item/hollow_4_way_double_white_road_line_connection"
+  }
+}

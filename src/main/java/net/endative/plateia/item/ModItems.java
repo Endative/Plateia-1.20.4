@@ -155,9 +155,6 @@ public class ModItems {
                     new AliasedLineBlockItem(ModBlocks.FOUR_WAY_SINGLE_AND_DOUBLE_WHITE_AND_YELLOW_ROAD_LINE_CONNECTION,
                             new FabricItemSettings()));
 
-
-
-
     private static Item register(String id, Block block, ItemGroup group) {
         return Registry.register(Registries.ITEM, new Identifier(Plateia.MOD_ID, id),
                 new BlockItem(block, new FabricItemSettings()));
